@@ -2,7 +2,7 @@
 ## Description
 - Sentiment Analysis is a subset of problems that falls under text classification. 
 - Sentiment analysis, often referred to as opinion mining or emotion AI, involves the application of natural language processing, text analysis, computational linguistics, and biometrics to systematically recognize, extract, quantify, and analyze emotional states and subjective data.
-- This project uses **IMDB Dataset**
+- This project uses [IMDB Dataset](https://drive.google.com/file/d/1nxR07ebVNc5bSgfTQjeUcAoyoaNuuH6s/view)
 
 
 ## Installation
